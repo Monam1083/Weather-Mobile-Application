@@ -6,8 +6,8 @@ A clean and minimal Flutter weather application that fetches real-time weather d
 
 ## 📱 Screenshots
 
-<img width="146" height="332" alt="image" src="https://github.com/user-attachments/assets/e422c07b-17aa-42da-b36f-9c8f9ca32d51" />
-<img width="142" height="310" alt="image" src="https://github.com/user-attachments/assets/d2ed1258-2b38-4853-990b-a94cd4a195e0" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/e422c07b-17aa-42da-b36f-9c8f9ca32d51" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/d2ed1258-2b38-4853-990b-a94cd4a195e0" />
 
 ## 📱Demo
 
