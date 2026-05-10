@@ -4,7 +4,7 @@ import 'package:http/http.dart' as http;
 import 'package:weather_application/models/weather_model.dart';
 
 class WeatherService {
-  final String apikey = "033d16b64fd9edc7ab8591e9bed6bdcc";
+ final String apikey = '';  // Add your own API key here
 
   Future<Weather> fatchWeather(String cityName) async {
     final url = Uri.parse(
