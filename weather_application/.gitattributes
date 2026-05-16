@@ -1,9 +1,0 @@
-# Flutter/Dart - override C++ detection
-*.cpp linguist-vendored=true
-*.c linguist-vendored=true
-*.h linguist-vendored=true
-*.cc linguist-vendored=true
-
-# Explicitly mark Dart as the main language
-*.dart linguist-detectable=true
-lib/** linguist-language=Dart
